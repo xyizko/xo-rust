@@ -7,8 +7,8 @@
 
 <a href="https://hits.seeyoufarm.com"></a>
 
-<h1 align="center"><code> xo-ucy </code></h1>
-<h2 align="center"><i>Cyfrin Updraft Study</i></h2>
+<h1 align="center"><code> xo-rust </code></h1>
+<h2 align="center"><i>Rust Learning - Security Focus</i></h2>
 
 [![](./gfx/x.webp)](https://x.com/home)
 
