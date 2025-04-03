@@ -16,3 +16,10 @@
 
 > Certifications and related for learnign work related to rust
 
+# Certifications
+
+> Some are incomplete since they require payment to acquire cert.
+
+Name | 
+:--: |
+[![](./gfx/drr1.jpg)](https://www.coursera.org/specializations/rust-programming#courses) - Coursera Duke University Rust Specialization - Rust Fundamentals
